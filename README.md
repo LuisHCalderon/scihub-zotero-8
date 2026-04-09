@@ -26,6 +26,6 @@ Carga por DOI:
 - Zotero 8+ (no probado en v.7)
 
 ## Nota
-Creado con fines educativos, no me responsabilizo de uso.
+Creado con fines educativos, no me responsabilizo de su uso.
 Basado en el trabajo de ethanwillis para Zotero 6.
 Abril, 2026; Lima-Perú
