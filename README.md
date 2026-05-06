@@ -23,9 +23,9 @@ Carga por DOI:
 
 
 ## Compatibilidad
-- Zotero 8+ (no probado en v.7)
+- Zotero 8, 9+ (no probado en v.7)
 
 ## Nota
 Creado con fines educativos, no me responsabilizo de su uso.
-Basado en el trabajo de ethanwillis para Zotero 6.
+Basado en el trabajo de ethanwillis en Zotero 6.
 Abril, 2026; Lima-Perú
